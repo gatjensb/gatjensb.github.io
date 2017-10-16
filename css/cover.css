@@ -174,7 +174,8 @@ body {
   letter-spacing: 5px;
 }
 .social-icons a:hover {
-  opacity: .5;
+  /*opacity: .5;*/
+  color: #FB3353;
 }
 
 .background-blur {
@@ -207,7 +208,8 @@ body {
   border-top: 1px solid #fff;
 }
 .btn-special:hover {
-  opacity: .5;
+  /*opacity: .5;*/
+  color: #FB3353;
   background-color: transparent;
   border: none;
   border-top: 1px solid rgba(255, 255, 255, .5);
@@ -250,7 +252,8 @@ body {
   border-bottom: 1px solid #fff;
 }
 .btn-skills:hover {
-  opacity: .5;
+  /*opacity: .5;*/
+  color: #FB3353;
   background-color: transparent;
   border: none;
   border-bottom: 1px solid rgba(255, 255, 255, .5);
