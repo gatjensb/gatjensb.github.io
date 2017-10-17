@@ -24,7 +24,7 @@ body {
   color: #000;
   text-align: center;
   /*text-shadow: 0 1px 3px rgba(0,0,0,.5);*/
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 14px;
 }
 
@@ -201,6 +201,7 @@ body {
     background-color: transparent;
     border: none;
     border-top: 1px solid #fff;
+   /*font-family: 'Roboto Slab', serif;*/
 }
 .btn-special:focus,
 .btn-special.focus {
