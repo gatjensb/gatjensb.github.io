@@ -160,9 +160,11 @@ body {
 }
 .logo .name {
    font-weight: 300;
+   font-family: 'Roboto Slab', serif;
 }
 .logo .lastname {
   font-weight: bold;
+  font-family: 'Roboto Slab', serif;
 }
 .logo .location {
   font-weight: normal;
