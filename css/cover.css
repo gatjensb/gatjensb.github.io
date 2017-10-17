@@ -159,10 +159,10 @@ body {
    line-height: 15px;
 }
 .logo .name {
-  font-weight: bold;
+   font-weight: 300;
 }
 .logo .lastname {
-  font-weight: 300;
+  font-weight: bold;
 }
 .logo .location {
   font-weight: normal;
@@ -236,7 +236,7 @@ body {
   border-top: 1px solid #000;
 }
 
-.btn-skills, .btn-skills:hover, .btn-skills:focus {
+.btn-skills {
     color: #fff;
     text-shadow: none;
     background-color: transparent;
@@ -245,14 +245,15 @@ body {
 }
 .btn-skills:focus,
 .btn-skills.focus {
-  color: #fff;
-  background-color: transparent;
+  color: #FFF;
+  background-color: #FB3353;
+  border: 1px solid #FB3353;
+  border-radius: 25px;
 }
 .btn-skills:hover {
   /*opacity: .5;*/
   color: #FFF;
   background-color: #FB3353;
-  border: none;
   border: 1px solid #FB3353;
   border-radius: 25px;
 }
