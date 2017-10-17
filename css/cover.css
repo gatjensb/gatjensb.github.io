@@ -204,13 +204,11 @@ body {
 .btn-special.focus {
   color: #fff;
   background-color: transparent;
-  border: none;
-  border-top: 1px solid #fff;
 }
 .btn-special:hover {
   /*opacity: .5;*/
-  color: #FB3353;
-  background-color: transparent;
+  color: #FFF;
+  background-color: #FB3353;
   border: none;
   /*border-top: 1px solid rgba(255, 255, 255, .5);*/
   border-top: 1px solid #FB3353;
@@ -242,23 +240,21 @@ body {
     color: #fff;
     text-shadow: none;
     background-color: transparent;
-    border: none;
-    border-bottom: 1px solid #fff;
+    border: 1px solid #fff;
+    border-radius: 25px;
 }
 .btn-skills:focus,
 .btn-skills.focus {
   color: #fff;
   background-color: transparent;
-  border: none;
-  border-bottom: 1px solid #fff;
 }
 .btn-skills:hover {
   /*opacity: .5;*/
-  color: #FB3353;
-  background-color: transparent;
+  color: #FFF;
+  background-color: #FB3353;
   border: none;
-  /*border-bottom: 1px solid rgba(255, 255, 255, .5);*/
-  border-bottom: 1px solid #FB3353;
+  border: 1px solid #FB3353;
+  border-radius: 25px;
 }
 .btn-skills:active,
 .btn-skills.active,
